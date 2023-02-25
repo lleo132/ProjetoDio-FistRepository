@@ -1,0 +1,12 @@
+Iniciando os estudos para alcançar o objetivo em se tornar um desenvolvedor back end em Java.
+
+Aqui iremos aprender tecnologias usadas no dia a dia de um desenvolvedor back end.
+-JAVA
+-METODOLOGIAS ÀGEIS
+-MYSQL
+-SPRING BOOT
+-MONGODB
+-POO
+-GIT
+
+Entre outras tecnologias adicionais importantes
